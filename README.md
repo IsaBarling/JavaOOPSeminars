@@ -1,4 +1,4 @@
-# JavaOOPSeminars
+# JavaOOPSeminars Fomina Mary 3417 | 2
 ##Урок 1. Принципы ООП: Инкапсуляция, наследование, полиморфизм
 * Создать наследника реализованного класса HotDrink с дополнительным полем int температура.
 * Создать класс HotDrinkVendingMachine, реализующий интерфейс VendingMachine и реализовать перегруженный метод getProduct(String name, double volume, double temperature), выдающий продукт соответствующего имени, объема и температуры.
